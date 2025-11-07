@@ -2,7 +2,7 @@
 
 <!-- Activity Graph -->
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=github-compact&area=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Hassan222-pixel&theme=github-compact&area=true" />
 </p>
 
 ---
